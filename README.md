@@ -2,4 +2,4 @@
 
 첫 클론코딩 : html/css를 익히기 위한 연습
 
-<img scr="https://user-images.githubusercontent.com/85798544/159167898-88f01457-cc42-40af-ade4-59dc2ca0a453.jpg">
+<img width="80%" src="https://user-images.githubusercontent.com/85798544/159167898-88f01457-cc42-40af-ade4-59dc2ca0a453.jpg"/>
